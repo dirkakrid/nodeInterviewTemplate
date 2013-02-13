@@ -7,6 +7,9 @@ lib-cov
 *.pid
 *.gz
 
+#Ignore Webstorm files
+/.idea
+
 pids
 logs
 results
