@@ -7,8 +7,11 @@ lib-cov
 *.pid
 *.gz
 
-#Ignore Webstorm files
+# Ignore Webstorm files
 /.idea
+
+# Ignore node modules
+/node_modules
 
 pids
 logs
